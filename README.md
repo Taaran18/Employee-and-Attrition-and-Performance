@@ -22,7 +22,7 @@ This project aims to predict employee attrition using a random forest classifier
 2. Run the following command to execute the code:
 
    ```bash
-   python employee_attrition_prediction.py
+   Write the code in .ipynb and run it. Colab and Jupyter can also be used to run this Project
    ```
 
 3. The program will output the following:
