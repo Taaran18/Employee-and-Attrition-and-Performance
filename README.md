@@ -1,4 +1,4 @@
-# Employee-and-Attrition-and-Performance
+# Employee Attrition and Performance
 
 Employee Attrition Prediction
 
